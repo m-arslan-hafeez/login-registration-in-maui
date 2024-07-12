@@ -1040,3 +1040,4 @@ C:\Users\M. Arslan Hafeez\source\repos\AppUI\AppUI\obj\Debug\net8.0-android\stam
 C:\Users\M. Arslan Hafeez\source\repos\AppUI\AppUI\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\M. Arslan Hafeez\source\repos\AppUI\AppUI\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\M. Arslan Hafeez\source\repos\AppUI\AppUI\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\M. Arslan Hafeez\source\repos\AppUI\AppUI\obj\Debug\net8.0-android\AppUI.sourcelink.json
